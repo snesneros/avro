@@ -42,7 +42,7 @@
         version at the time of writing.  For the examples in this guide,
         download <em>avro-&AvroVersion;.jar</em> and
         <em>avro-tools-&AvroVersion;.jar</em>.  The Avro Java implementation
-        also depends on the <a href="http://jackson.codehaus.org/">Jackson</a>
+        also depends on the <a href="http://wiki.fasterxml.com/JacksonHome">Jackson</a>
         JSON library.  From the Jackson <a
         href="http://wiki.fasterxml.com/JacksonDownload">download page</a>,
         download the core-asl and mapper-asl jars.  Add
